@@ -1,7 +1,7 @@
 import Navbar from "./components/navbar"
 import { Route, Routes } from "react-router-dom"
 import Home from "./pages/Home"
-import About from "./pages/About"
+import About from "./pages/about"
 import Contact from "./pages/Contact"
 import Cart from "./pages/Cart"
 import Orders from "./pages/Orders"
